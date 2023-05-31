@@ -21,7 +21,7 @@ func main() {
 		cancelCtx()
 	}()
 
-	fmt.Println("Server started @ " + srv.Addr)
+	fmt.Println("Server started @ http://localhost" + srv.Addr)
 	log.Println("Server started @ " + srv.Addr)
 	<-ctx.Done()
 }

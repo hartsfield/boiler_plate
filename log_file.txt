@@ -4,3 +4,4 @@
 2023/05/31 16:12:03 main.go:67: Server started @ :9394
 2023/05/31 16:27:36 main.go:62: Server started @ :9394
 2023/05/31 16:49:21 main.go:25: Server started @ :9394
+2023/05/31 17:13:14 main.go:25: Server started @ :9394
